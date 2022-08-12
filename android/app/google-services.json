@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991147658626",
+    "project_id": "jobcdp-d1854",
+    "storage_bucket": "jobcdp-d1854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991147658626:android:a56063c2e2465cf247939b",
+        "android_client_info": {
+          "package_name": "com.example.jobcdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991147658626-kbonej3sn1mmn574b9897fjc6in4j44e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARkMIjOK6-hT_JhvPmyT7nYVJ1JcY74TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991147658626-kbonej3sn1mmn574b9897fjc6in4j44e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
